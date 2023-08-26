@@ -16,6 +16,7 @@ A Senior Software Engineer. Mostly experienced in Android but develop for both p
 - Podlodka Android Crew - [Conversation about KMM](https://www.youtube.com/watch?v=ihc2CVvK4Cs) [ru]
 - Festival 404 - [How to migrate to Jetpack Compose](https://www.youtube.com/watch?v=MtEW9O-Qrr4) [ru]
 - Kontur meetup - [Jetpack Compose workshop](https://www.youtube.com/watch?v=kPMJ5NzotNI) [ru]
+- Podlodka Android Crew - [Jetpack Compose puzzlers](https://www.youtube.com/watch?v=dRD2cudvUs8) [ru]
 - Podlodka Android Crew - [All you need to know about Kotlin Coroutines](https://www.youtube.com/watch?v=icAz5VPAJp4) [ru]
 - Podlodka Android Crew - [Jetpack Compose test tasks review](https://www.youtube.com/watch?v=ray3UjnzRN0) [ru]
 - GDG Russia Dev Party 2020 - [Flutter — getting ready for production](https://www.youtube.com/watch?v=Xe3Ug3fCO3c) [ru]
