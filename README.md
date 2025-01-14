@@ -12,7 +12,7 @@ A Senior Software Engineer. Mostly experienced in Android but develop for both p
 - [Jetpack Compose interview](https://www.youtube.com/watch?v=qb0Ezy-WO_k)
 
 ## Talks
-- Mobius 2025 Spring - [Compose and SwiftUI: find 10 differences](https://youtu.be/R-4R13tDMG8?si=A4V-ZJws61hG2sbm) [ru]
+- Mobius 2024 Autumn - [Compose and SwiftUI: find 10 differences](https://youtu.be/R-4R13tDMG8?si=A4V-ZJws61hG2sbm) [ru]
 - YouTube channel 2024 - [Non-Multi-Platform Android Development Habits](https://youtu.be/pTyWagI8G5g?si=1nY9lbWmk9bBldKe) [ru]
 - Mobius 2023 Autumn - [Compose Quiz](https://youtu.be/wvYyhOcaFUU?si=yHvGgOrVoytFK0eU) [ru]
 - Mobius 2023 Autumn - [What is hidden in State in Compose](https://youtu.be/_hI2vwei9Rg?si=mJYyLS6-tQIDg8_x) [ru]
