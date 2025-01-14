@@ -7,10 +7,16 @@ A Senior Software Engineer. Mostly experienced in Android but develop for both p
 📱I am passionate about new technologies in mobile development, learning how they work and sharing knowledge with others.
 
 ## Public interviews
-- [Kotlint Coroutines interview](https://www.youtube.com/watch?v=arUctP5yAYc)
+- [Kotlin Multiplatform interview](https://www.youtube.com/live/i45sp7O_RUc?si=hwxokOFln7k-g_2B)
+- [Kotlin Coroutines interview](https://www.youtube.com/watch?v=arUctP5yAYc)
 - [Jetpack Compose interview](https://www.youtube.com/watch?v=qb0Ezy-WO_k)
 
 ## Talks
+- Mobius 2025 Spring - [Compose and SwiftUI: find 10 differences](https://youtu.be/R-4R13tDMG8?si=A4V-ZJws61hG2sbm) [ru]
+- YouTube channel 2024 - [Non-Multi-Platform Android Development Habits](https://youtu.be/pTyWagI8G5g?si=1nY9lbWmk9bBldKe) [ru]
+- Mobius 2023 Autumn - [Compose Quiz](https://youtu.be/wvYyhOcaFUU?si=yHvGgOrVoytFK0eU) [ru]
+- Mobius 2023 Autumn - [What is hidden in State in Compose](https://youtu.be/_hI2vwei9Rg?si=mJYyLS6-tQIDg8_x) [ru]
+- YaTalks 2023 — [Cross-Platform of the future: Flutter or KMP](https://youtu.be/hDh-Fdehb3Q?si=o6sIvH1FGus4ygQA) [ru]
 - Mobius 2022 Spring - [Declarative architecture and navigation with Decompose](https://www.youtube.com/watch?v=4_CxQknWfrY) [ru]
 - Podlodka Android Crew - [Problems of navigation in Jetpack Compose](https://www.youtube.com/watch?v=owE7F5K8eaY) [ru]
 - Podlodka Android Crew - [Conversation about KMM](https://www.youtube.com/watch?v=ihc2CVvK4Cs) [ru]
